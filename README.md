@@ -14,7 +14,6 @@
 - 😄 Pronouns: 'he/him'
 - ⚡ Fun fact: I love videogames but no time to play (that's fun)
 
----
 
 ## 🚀 Coding
 
