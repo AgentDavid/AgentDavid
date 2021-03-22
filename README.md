@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi [David Gimenez][website] there 👋
 
-**AgentDavid/AgentDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/alejandrogmn?color=1DA1f2&logo=twitter&style=for-the-badge)](https://twiter.com/alejandrogmn)
 
 Here are some ideas to get you started:
 
@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!-- links -->
+[website]:https://holasoydavid.com/
