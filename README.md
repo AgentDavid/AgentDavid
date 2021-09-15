@@ -9,10 +9,9 @@
 - 🔭 I’m currently working on my portafolio
 - 🌱 I’m currently learning Angular and React
 - 👯 I’m looking to collaborate on a web projet or app mobile project
-- 🤔 I’m looking for help with looking a good job 😅
 - 💬 Ask me about mobile and web dev
 - 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love videogames but no time to play (that's fun)
+- ⚡ Fun fact: I love videogames but i'm very bad to play (that's fun)
 
 
 ## 🚀 Coding
