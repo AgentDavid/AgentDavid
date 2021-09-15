@@ -6,7 +6,7 @@
 
 ## Web and Mobile Developer 💻📱 Designer 🎨 and Student 🧑‍🎓
 
-- 🔭 I am currently working in an incredible company with an great team.
+- 🔭 I am currently working in an incredible company with a great team.
 - 🌱 I’m currently learning Angular and React
 - 👯 I’m looking to collaborate on a web projet or app mobile project
 - 💬 Ask me about mobile and web dev
