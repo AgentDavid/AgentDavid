@@ -42,7 +42,7 @@
 
 [<img align="left" alt="java" width="26px" style="margin-right: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 
-[<img align="left" alt="java" width="26px" style="margin-right: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png" />][website]
+[<img align="left" alt="solidity" width="26px" style="margin-right: 3px" src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" />][website]
 
 <br/>
 
