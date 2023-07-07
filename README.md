@@ -4,10 +4,10 @@
 
 ![alt text](https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif)
 
-## Web and Mobile Developer 💻📱 Designer 🎨 and Student 🧑‍🎓
+## Web and Full Stack Developer 💻📱 Designer 🎨 and Student 🧑‍🎓
 
 - 🔭 I am currently working in an incredible company with a great team.
-- 🌱 I’m currently learning OrbitDB, IPFS integrations and develop in Algorand
+- 🌱 I’m currently learning Advanced Cryptography
 - 👯 I’m looking to collaborate on a web projet or app mobile project
 - 💬 Ask me about mobile and web dev
 - 😄 Pronouns: 'he/him'
@@ -41,6 +41,8 @@
 [<img align="left" alt="python" width="26px" style="margin-right: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 
 [<img align="left" alt="java" width="26px" style="margin-right: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
+
+[<img align="left" alt="java" width="26px" style="margin-right: 3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png" />][website]
 
 <br/>
 
