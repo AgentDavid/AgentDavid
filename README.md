@@ -6,12 +6,12 @@
 
 ## Web and Full Stack Developer 💻📱 Designer 🎨 and Student 🧑‍🎓
 
-🔭 Currently, I'm contributing my expertise to an amazing company alongside a talented team.
-🌱 I'm actively diving into the world of Advanced Cryptography and AI to expand my knowledge.
-👯 I'm open to collaborating on web or mobile app projects that push the boundaries of innovation.
-💬 Feel free to reach out to me for discussions on mobile and web development.
-😄 Pronouns: 'he/him'
-⚡ Fun fact: I have a passion for video games, but I must admit I'm not the best player – that's where the fun begins!
+- 🔭 Currently, I'm contributing my expertise to an amazing company alongside a talented team.
+- 🌱 I'm actively diving into the world of Advanced Cryptography and AI to expand my knowledge.
+- 👯 I'm open to collaborating on web or mobile app projects that push the boundaries of innovation.
+- 💬 Feel free to reach out to me for discussions on mobile and web development.
+- 😄 Pronouns: 'he/him'
+- ⚡ Fun fact: I have a passion for video games, but I must admit I'm not the best player – that's where the fun begins!
 
 
 ## 🚀 Coding
